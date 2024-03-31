@@ -70,7 +70,6 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 ### 📊 GitHub Stats
 
 ![Zhewei's Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZheweiINK&theme=transparent)
-![Zhewei's Language stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZheweiINK&theme=transparent)
 
 <!--
 <p>
