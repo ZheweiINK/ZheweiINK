@@ -69,14 +69,15 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 ### 📊 GitHub Stats
 
-[![Zhewei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZheweiINK)](https://github.com/ZheweiINK/github-readme-stats)
 ![Zhewei's Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZheweiINK&theme=transparent)
-![Zhewei's Language stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZheweiINK&theme=transparent)
+![Zhewei's Language stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZheweiINK&theme=transparent)
 
+<!--
 <p>
   < img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZheweiINK&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
   < img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZheweiINK&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=gruvbox"/>
 </p >
+-->
 
 <!--
 **ZheweiINK/ZheweiINK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
