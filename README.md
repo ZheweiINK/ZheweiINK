@@ -69,10 +69,9 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 ### 📊 GitHub Stats
 
-![Zhewei's github stats](https://github-readme-stats.vercel.app/api?username=ZheweiINK&show_icons=true&theme=buefy&count_private=true)
-
-![Zhewei's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZheweiINK&theme=nord_dark)
-![Zhewei's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZheweiINK&theme=nord_dark)
+[![Zhewei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZheweiINK)](https://github.com/ZheweiINK/github-readme-stats)
+![Zhewei's Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZheweiINK&theme=transparent)
+![Zhewei's Language stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZheweiINK&theme=transparent)
 
 <p>
   < img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZheweiINK&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
