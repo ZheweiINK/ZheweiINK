@@ -65,9 +65,7 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 ### 🏆 GitHub Trophy
 
-<a href=" ">
-  < img width=800 src="https://github-profile-trophy.vercel.app/?username=ZheweiINK&column=8&theme=radical&no-frame=true&no-bg=true"/>
-</a >
+[![Zhewei's github trophy](https://github-profile-trophy.vercel.app/?username=ZheweiINK)](https://github.com/ZheweiINK/github-profile-trophy)
 
 ### 📊 GitHub Stats
 
