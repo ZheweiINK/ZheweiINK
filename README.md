@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a dedicated and passionate 💻 **Computer Science** student with a strong background in Software Development, Database Systems, Machine Learning, and Natural Language Processing. I am currently pursuing a Master's degree in Computer Science at 🏛 **Carnegie Mellon University**.
+I am a dedicated and passionate 💻 **Computer Science** student with a strong background in Software Development, Database Systems, Machine Learning, and Natural Language Processing. I am currently pursuing a Master's degree at 🏛 **Carnegie Mellon University**, focusing on Computer Systems and Machine Learning Systems.
 
 ---
 <!--
