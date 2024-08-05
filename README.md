@@ -51,6 +51,10 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 - Designed a benchmark based on GLUE for tasks specialized in recruitment scenarios to evaluate BERT-based LLMs
 - Improved F1-Score by over 8% in CWS and NER tasks, by constructing specialized dictionary with 100k+ entries extracted from resume dataset and deploying the ML pipeline on AWS, utilizing Spark for big data processing and analytics
 
+#### Teaching Assistant @ CMU (Jan. 2024 - May. 2024)
+
+- Hosted weekly recitation sessions and Office Hours for 100+ students, covering topics including OOP, software system design patterns, concurrency, and Java/TypeScript programming, providing one-on-one mentoring and code reviews for students
+
 ---
 
 ### 🎓 &nbsp;Education
