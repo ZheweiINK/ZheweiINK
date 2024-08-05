@@ -33,22 +33,23 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 👨‍💻 Rating 2315 (Top <0.1%) on ![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
----
-
-### 📚 &nbsp;Projects
-
-#### 📱 [TsingHelp: A Campus Support App for Tsinghua University Students](https://github.com/takuyara/TsingHelp) (Full-stack & Mobile Application Development)
-
-- Led a 9-member team to develop TsingHelp, an Android app enhancing Tsinghua students' campus experience by providing peer support and inquiries, cafeteria reviews, and campus information, attracting hundreds of initial users.
-- Technology Stack: Java Android + PHP + Apache + MySQL + Linux
-
-#### 🐞 Software-Hardware System for Middle Ear Impedance Tester (Full-stack & Embedding System Development)
-
-- Developed a full-stack Windows application using Qt,❗ controlling hardware, displaying auxiliary diagnostic results, and executing data analysis, enhanced with machine learning-based analysis using Python Scikit-learn.
-- Developed control units for multiple sensors, handled data acquisition, transmission, and processing, utilizing STM32.
 
 ---
 -->
+
+### 📚 &nbsp;Experience
+
+#### Software Engineer Intern (Backend) @ NVIDIA Corporation (May. 2024 - Present)
+
+- Designed and developed data management platform for over 500 hours driving scenes data, providing means to enhance the training efficiency of BITS, a state-of-the-art traffic simulation model for autonomous vehicle development
+- Designed robust schema for immutable data and columnar organization to enable selective data usage, integrating with Apache Parquet data format and DuckDB for efficient data storage and query, utilizing Flask framework to launch the Data as a Service (DaaS)
+- Implemented APIs for high-speed data retrieval, format conversion, and visualization in a distributed data lake
+
+#### NLP Algorithm Engineer Intern @ Moka (Sept. 2022 - Mar. 2023)
+
+- Conducted research on cutting-edge multi-task joint models, like XLNet, RoBERTa, for resume parsing in recruitment scenarios
+- Designed a benchmark based on GLUE for tasks specialized in recruitment scenarios to evaluate BERT-based LLMs
+- Improved F1-Score by over 8% in CWS and NER tasks, by constructing specialized dictionary with 100k+ entries extracted from resume dataset and deploying the ML pipeline on AWS, utilizing Spark for big data processing and analytics
 
 ### 🎓 &nbsp;Education
 
