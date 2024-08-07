@@ -34,9 +34,9 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 👨‍💻 Rating 2315 (Top <0.1%) on ![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
-
----
 -->
+---
+
 
 ### 📚 &nbsp;Experience
 
