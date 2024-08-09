@@ -15,20 +15,19 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 **Tools & Technologies:** 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?style=for-the-badge&logo=github-actions) ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=for-the-badge&logo=MATLAB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?style=for-the-badge&logo=github-actions) ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <!--
 **Data Analysis & Visualization:** 
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=for-the-badge&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![D3](https://img.shields.io/badge/-D3.js-000?style=for-the-badge&logo=d3.js) ![MATLAB](https://img.shields.io/badge/-MATLAB-000?style=for-the-badge&logo=MATLAB)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=for-the-badge&logo=seaborn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![D3](https://img.shields.io/badge/-D3.js-000?style=for-the-badge&logo=d3.js) 
 
 **Artificial Intelligence:** 
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 **Hardware Programming & Prototyping:** 
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-000?style=for-the-badge&logo=verilog) ![STM32](https://img.shields.io/badge/-STM32-000?style=for-the-badge&logo=stmicroelectronics) ![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-000?style=for-the-badge&logo=solidworks)
+![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Verilog](https://img.shields.io/badge/-Verilog-000?style=for-the-badge&logo=verilog) ![STM32](https://img.shields.io/badge/-STM32-000?style=for-the-badge&logo=stmicroelectronics) ![SOLIDWORKS](https://img.shields.io/badge/-SOLIDWORKS-000?style=for-the-badge&logo=solidworks)
 
 **Data Structure & Algorithms:** 
 
