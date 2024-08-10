@@ -43,7 +43,7 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 - Designed and developed data management platform for over 500 hours driving scenes data, providing means to enhance the training efficiency of BITS, a state-of-the-art traffic simulation model for autonomous vehicle development
 - Designed robust schema for immutable data and columnar organization to enable selective data usage, integrating with Apache Parquet data format and DuckDB for efficient data storage and query, utilizing Flask framework to launch the Data as a Service (DaaS)
-- Implemented APIs for high-speed data retrieval, format conversion, and visualization in a distributed data lake
+- Trained BITS with meticulously processed internal MADS data, achieving a 53.9% lower off-road rate in the evaluation on NuScenes-test dataset
 
 #### NLP Algorithm Engineer Intern @ Moka (Sept. 2022 - Mar. 2023)
 
