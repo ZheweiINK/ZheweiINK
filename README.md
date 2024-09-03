@@ -39,7 +39,7 @@ I am a dedicated and passionate 💻 **Computer Science** student with a strong 
 
 ### 📚 &nbsp;Experience
 
-#### Software Engineer Intern (Backend) @ NVIDIA Corporation (May. 2024 - Present)
+#### Software Engineer Intern (Backend) @ NVIDIA Corporation (May. 2024 - Aug. 2024)
 
 - Designed and developed data management platform for over 500 hours driving scenes data, providing means to enhance the training efficiency of BITS, a state-of-the-art traffic simulation model for autonomous vehicle development
 - Designed robust schema for immutable data and columnar organization to enable selective data usage, integrating with Apache Parquet data format and DuckDB for efficient data storage and query, utilizing Flask framework to launch the Data as a Service (DaaS)
